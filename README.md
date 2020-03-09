@@ -10,3 +10,7 @@ This repository contains the supplementary notebook for the [Introduction to ima
 #### UNET Like with Standard Conv
 
 ![UNET like with standard conv](https://github.com/ayulockin/deepimageimpainting/blob/master/images/model_unet_like.png)
+
+#### UNET Like with Partial Conv
+
+![UNET like with standard conv](https://github.com/ayulockin/deepimageimpainting/blob/master/images/model_partial_conv.png)
