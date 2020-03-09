@@ -1,11 +1,11 @@
-# Introduction to image impainting with deep learning
+# Introduction to image inpainting with deep learning
 
 By **Ayush Thakur** and **Sayak Paul**
 
 This repository contains the supplementary notebook for the [Introduction to image impainting with deep learning] article. 
 
 
-# Architectures 
+## Architectures 
 
 #### UNET Like with Standard Conv
 
