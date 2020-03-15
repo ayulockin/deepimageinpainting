@@ -2,9 +2,11 @@
 
 By **Ayush Thakur** and [**Sayak Paul**](http://github.com/sayakpaul)
 
-This repository contains the supplementary notebook for the [Introduction to image impainting with deep learning] article. 
+This repository contains the supplementary notebook for the [Introduction to image impainting with deep learning] (from [Weights and Biases](https://www.wandb.com/)) article. 
 
 ![](https://github.com/ayulockin/deepimageinpainting/blob/master/images/wandb_run.png?raw=true)
+
+<center><a href=https://app.wandb.ai/ayush-thakur/image-impainting/runs/15ydxggr>Weights and Biases run page</a></center>
 
 
 ## Architectures 
